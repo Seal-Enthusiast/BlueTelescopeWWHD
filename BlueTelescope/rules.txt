@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010143500,0005000010143500,0005000010143500,5000010143599
+name = Blue Telescope WWHD
+path = "The Legend of Zelda: The Wind Waker HD/Mods/Blue Telescope WWHD"
+description = A recolor of the Telescope to be blue
+version = 4
